@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "setup": "echo \"todo\" && exit 1"
+    "build": "sh ./scripts/build-hermes.sh",
+    "hermes": "./build/bin/hermes",
+    "node": "node --jitless"
   },
   "repository": {
     "type": "git",
