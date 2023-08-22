@@ -1,0 +1,17 @@
+{
+  "name": "hermes-playground",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "setup": "echo \"todo\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leegeunhyeok/hermes-playground.git"
+  },
+  "author": "leegeunhyeok <dev.ghlee@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/leegeunhyeok/hermes-playground/issues"
+  },
+  "homepage": "https://github.com/leegeunhyeok/hermes-playground#readme"
+}
